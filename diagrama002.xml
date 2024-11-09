@@ -1,0 +1,15 @@
+<mxfile>
+  <diagram name="Generacion de Reportes de Actividades">
+    <mxGraphModel dx="827" dy="1072" grid="1" gridsize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="2" value="Generación de Reportes de Actividades" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F9E79F;strokeColor=#F39C12;" vertex="1" connectable="0" parent="1" />
+        <mxCell id="3" value="Recopilación de Datos de Actividades" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F9E79F;strokeColor=#F39C12;" vertex="1" connectable="0" parent="1" />
+        <mxCell id="4" value="Generación de Informe Final (PDF/Excel/CSV)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F9E79F;strokeColor=#F39C12;" vertex="1" connectable="0" parent="1" />
+        <mxCell id="5" edge="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0" source="2" target="3" parent="1" />
+        <mxCell id="6" edge="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0" source="3" target="4" parent="1" />
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

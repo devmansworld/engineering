@@ -1,0 +1,15 @@
+<mxfile>
+  <diagram name="Configuracion y Mantenimiento de Camaras">
+    <mxGraphModel dx="827" dy="1072" grid="1" gridsize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="2" value="Configuración de Cámaras" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F5B7B1;strokeColor=#E74C3C;" vertex="1" connectable="0" parent="1" />
+        <mxCell id="3" value="Ajustes de Ángulo y Enfoque" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F5B7B1;strokeColor=#E74C3C;" vertex="1" connectable="0" parent="1" />
+        <mxCell id="4" value="Mantenimiento y Reemplazo de Equipos" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F5B7B1;strokeColor=#E74C3C;" vertex="1" connectable="0" parent="1" />
+        <mxCell id="5" edge="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0" source="2" target="3" parent="1" />
+        <mxCell id="6" edge="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0" source="3" target="4" parent="1" />
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

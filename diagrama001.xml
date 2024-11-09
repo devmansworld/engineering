@@ -1,0 +1,15 @@
+<mxfile>
+  <diagram name="Monitoreo En Vivo">
+    <mxGraphModel dx="827" dy="1072" grid="1" gridsize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="2" value="Monitoreo en vivo" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D4E6F1;strokeColor=#4682B4;" vertex="1" connectable="0" parent="1" />
+        <mxCell id="3" value="Ver Cámaras en Vivo" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D4E6F1;strokeColor=#4682B4;" vertex="1" connectable="0" parent="1" />
+        <mxCell id="4" value="Recibir Alertas en Tiempo Real" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D4E6F1;strokeColor=#4682B4;" vertex="1" connectable="0" parent="1" />
+        <mxCell id="5" edge="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0" source="2" target="3" parent="1" />
+        <mxCell id="6" edge="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0" source="3" target="4" parent="1" />
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
